@@ -22,9 +22,6 @@ Bu proje, oyun geliştiricileri, oyunlar ve türler arasındaki ilişkileri yön
 - `developers` → `games` (1-to-Many)
 - `games` ↔ `genres` (Many-to-Many via `games_genres`)
 
-## 📊 Diyagram
-
-![Database Diagram](database_diagram.png)
 
 ## Kullanılan Teknolojiler
 
