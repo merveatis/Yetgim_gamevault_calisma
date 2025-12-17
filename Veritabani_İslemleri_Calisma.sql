@@ -1,7 +1,5 @@
 -- ==========================================
 -- GAMEVAULT VERİTABANI PROJESİ
--- Öğrenci: Merve ATİŞ
--- Tarih: 18 Aralık 2024
 -- ==========================================
 
 -- ==========================================
@@ -162,4 +160,5 @@ ORDER BY price DESC;
 
 SELECT title FROM games
 WHERE title LIKE  '%War%';
+
 
